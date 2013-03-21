@@ -1,0 +1,10 @@
+Company: Freelance
+Name: Cody Duval
+email: cody.duval@gmail.com
+
+What would you like to learn about concurrency?
+- What does concurrency look like in Ruby compared to some other languages?
+- How does this change in Ruby 2.0?
+
+What do you wish Ruby did better for concurrency?
+- I don't have a wish yet, as concurrency (or Ruby's lack there-of) is not yet a pain-point for me.
