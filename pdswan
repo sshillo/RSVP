@@ -1,0 +1,3 @@
+* Peter Swan, Indaba Music and pdswan@gmail.com
+* i'd like to hear what people are currently taking advantage of. we're currently running thin in threaded mode in production and i'd love to hear about what other people are doing and how it's performing.
+* in terms of the language or implementation thereof, i'd like to see the GIL go away. in terms of the community i'd like to see more talks and more information (so thanks). 
