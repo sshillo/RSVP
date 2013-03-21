@@ -1,0 +1,3 @@
+* Jon Hyman, Appboy Inc (www.appboy.com), jon@appboy.com
+* Our Ruby code is executed millions of times per day at Appboy and we're always looking for ways to speed up and parallelize our work. Right now we accomplish this by spawning multiple processes or background jobs for a certain task, but I'd like to learn better ways to achieve this in Ruby.
+* I wish that Ruby let us utilize threads better and take advantage of multiple cores running code at the same time (not blocked by the GIL)
