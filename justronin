@@ -1,0 +1,3 @@
+Finario, Ralph Decatrel, deca2000@y12k.com
+What is available for handling concurrency in Ruby.
+How to determine when to design an approach that uses concurrency over another approach that does not.
