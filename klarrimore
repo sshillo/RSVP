@@ -1,0 +1,3 @@
+1. Keith Larrimore, IceHook Systems, klarrimore@icehook.com
+2. Most appropriate use cases for various concurrency methods. Threads vs Fibers vs Evented, etc.
+3. Easier ways to spread load across CPUs (avoid GIL limitations).
