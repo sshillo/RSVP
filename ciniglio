@@ -1,0 +1,5 @@
+1. How many libraries will need to be changed if true concurrency
+comes to ruby?
+
+2. Lost the GVL, had better constructs built into the
+language other than 'threads'.
