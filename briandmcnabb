@@ -1,0 +1,5 @@
+Brian McNabb / Huge, Inc / brian.d.mcnabb@gmail.com
+
+I'd like to learn about some best practices and performance insights related to ruby concurrency.
+
+I wish there was native threading (no GIL) in MRI.
