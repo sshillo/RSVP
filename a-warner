@@ -1,0 +1,11 @@
+Your company, name and email
+  Rap Genius, Andrew Warner, andrew at rapgenius dot com
+
+What would you like to learn about ruby concurrency?
+  With JRuby, you can interact with Java's Atomic objects from java.util.concurrent.atomic,
+  but is there anything equivalent on MRI/Rubinius that allows for lock-free thread-safe
+  variables?
+  I'm also curious to learn more about best practices for inter-thread communication.
+
+What do you wish ruby did better for concurrency?
+  I'd like to see a thread pool built in the standard library.
