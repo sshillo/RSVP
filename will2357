@@ -1,0 +1,3 @@
+* Adaptly, Will Highducheck, will@adaptly.com
+* Differences in implementation (JRuby vs MRI)
+* True concurrency
