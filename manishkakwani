@@ -1,0 +1,8 @@
+#Manish Kakwani
+#manish.kakwani@gmail.com
+
+#changes coming in ruby 2.0
+#why the GIL necessary in MRI
+#why functional languages better handle concurrency than ruby
+
+#haven't spent much time studying concurrency, so I'd be interested to learn good programming paradigms and use cases for concurrency in web app development
