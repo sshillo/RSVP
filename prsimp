@@ -1,0 +1,9 @@
+Company: Harvest
+Name: Paul Simpson
+Email: paul@getharvest.com
+
+* What would you like to learn about ruby concurrency?
+How can I use concurrency to make my applications more performant? What is the current state of Ruby concurrency?
+
+* What do you wish ruby did better for concurrency?
+Lack of current knowledge makes it difficult to really answer this question.
