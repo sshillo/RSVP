@@ -1,0 +1,9 @@
+Your company, name and email
+Self employed, Jonathan Maddison, jmaddi@gmail.com
+
+What would you like to learn about ruby concurrency?
+* Changes in MRI 2.0.
+* Best practices as applied to Rails.p
+
+What do you wish ruby did better for concurrency?
+* I wish MRI wasn't limited by GIL.
