@@ -1,0 +1,3 @@
+ownThis, Jason Fertel, jason@fer.tel
+I would like to learn the common patterns for creating concurrent applications in ruby.
+I wish more popular libraries took advantage of some of the newer concurrency primitives.
