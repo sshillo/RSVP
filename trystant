@@ -1,0 +1,9 @@
+Company: Grand Kru Technologies
+Name: Mark Nyon
+Email: mark@grandkru.com
+
+What would you like to learn about concurrency?
+* I would like to learn more about specific pitfalls & gotchas with Ruby & Concurrency
+
+What do you wish Ruby did better for concurrency?
+* I wish that there were best practices for Ruby gem creators to keep in mind when making software
