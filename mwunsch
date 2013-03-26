@@ -1,0 +1,8 @@
+> What would you like to learn about ruby concurrency?
+How to do concurrent IO but avoid the GIL (tenderlove mentioned this in a talk). 
+What this new signal handling fuss is about in Ruby 2.0.
+Hey remember Fibers? What can I do with those
+
+> What do you wish ruby did better for concurrency?
+No GIL :-(
+Better copy-on-write memory model for forking jawns like Unicorn.
