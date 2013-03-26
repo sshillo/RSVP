@@ -1,0 +1,5 @@
+WeWork, Jonathan E. Magen, yonkeltron@gmail.com
+
+I'd like to learn about the real impact of the GIL in MRI/YARV
+
+I'd appreciate a less-clumsy metaphor for concurrency than threads, ideally something which utilizes message passing rather than shared, mutable state.
