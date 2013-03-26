@@ -1,0 +1,10 @@
+# Company, name, email
+10gen
+Tyler Brock
+tyler@10gen.com
+
+# What would you like to learn about ruby concurency?
+Anything and everything. JRuby, threads, fibers, whatever you've got.
+
+# What do you wish ruby did better for concurrency?
+As a community, have more thread safe libraries.
