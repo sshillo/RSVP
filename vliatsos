@@ -1,0 +1,9 @@
+# Your company, name and email
+Tradelegs LLC, Vassilios Liatsos, vliatsos@gmail.com
+
+# What would you like to learn about ruby concurrency?
+I'd like to learn about the current state of Ruby's concurrency features that take advantage of multi-threaded and multicore processors.
+
+# What do you wish ruby did better for concurrency?
+I wish that ruby had similar features to Java for concurrency. 
+I ended up using jruby for that reason.
