@@ -1,0 +1,9 @@
+Company: Artsy
+Name: Daniel Doubrovkine
+Email: dblock[at]dblock[dot]org
+
+What would you like to learn about concurrency?
+- What can we do to leverage concurrency incrementally in Rack-based applications?
+
+What do you wish Ruby did better for concurrency?
+- Good thread pooling could be a start, but TBH I've spent little time looking at what's available.
