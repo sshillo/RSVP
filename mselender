@@ -1,0 +1,5 @@
+Chubb, though my interest here is on a personal, not company level
+Mike Selender
+mike_selender@mindspring.com
+I'm fairly new to Ruby and am interested in how concurrency on Ruby compares with other platforms such as Go and Python.
+Go has co-routines and channels. Ruby has fibers. How do they compare?
