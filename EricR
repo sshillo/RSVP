@@ -1,0 +1,13 @@
+# Your company, name and email
+
+BitLove
+Eric Rafaloff
+eric@bitlove.co
+
+# What would you like to learn about ruby concurrency?
+
+Best practices. I understand the basics of concurrency in Ruby, but I don't have much hands on experience.
+
+# What do you wish ruby did better for concurrency?
+
+Provide us with an API for creating lightweight threads, something like Go's goroutine.
