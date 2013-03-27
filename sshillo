@@ -1,0 +1,3 @@
+Adaptly, Sean Shillo, sean@adaptly.com
+What would it take to write a ruby that didn't have a gil? When should I use a fiber or thread?
+I wish there were things like concurrent maps, reduces. Something like goroutines would be nice.
